@@ -1,3 +1,6 @@
+Changes in branch main
+==================
+
 # Leo message struct 
 A basic example showing how to declare a struct in the Leo language.
 
