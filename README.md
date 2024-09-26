@@ -1,3 +1,6 @@
+Changes in main2
+==================
+
 # Leo message struct 
 A basic example showing how to declare a struct in the Leo language.
 
